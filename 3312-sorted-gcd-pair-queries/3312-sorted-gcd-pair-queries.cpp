@@ -1,44 +1,43 @@
+constexpr int Mx=5e4+1;
+int Div[Mx];
+long long GCD[Mx];
 class Solution {
 public:
-    vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
-        int mx = *max_element(nums.begin(), nums.end());
-
-        vector<long long> freq(mx + 1, 0);
-
-        for (int x : nums)
-            freq[x]++;
-
-        vector<long long> cntDiv(mx + 1, 0);
-
-        for (int d = 1; d <= mx; d++) {
-            for (int m = d; m <= mx; m += d) {
-                cntDiv[d] += freq[m];
-            }
+    static vector<int> gcdValues(vector<int>& nums, vector<long long>& q) {
+        const int n=nums.size();
+        int M=0;
+        for (int x : nums){
+            M=max(M, x);
+            Div[x]++;
+        } 
+        for(int x=1; x<=M; x++){
+            for(int y=2*x; y<=M; y+=x)
+                Div[x]+=Div[y];
         }
 
-        vector<long long> exactPairs(mx + 1, 0);
-
-        for (int d = mx; d >= 1; d--) {
-            long long k = cntDiv[d];
-            exactPairs[d] = k * (k - 1) / 2;
-
-            for (int m = 2 * d; m <= mx; m += d) {
-                exactPairs[d] -= exactPairs[m];
-            }
+        for (int x=M; x>=1; x--) {
+            long long cnt=Div[x];
+            GCD[x]=cnt*(cnt-1LL)>>1;
+            for (int y=2*x; y<=M; y+=x) 
+                GCD[x]-=GCD[y];
         }
 
-        vector<long long> prefix(mx + 1, 0);
-
-        for (int d = 1; d <= mx; d++) {
-            prefix[d] = prefix[d - 1] + exactPairs[d];
+        partial_sum(GCD, GCD+(M+1), GCD);
+        
+        int qz=q.size();
+        vector<int> ans(qz);
+        for (int i=0; i<qz; i++) {
+            ans[i]=upper_bound(GCD, GCD+M+1, q[i])-GCD; 
         }
-
-        vector<int> ans;
-
-        for (long long q : queries) {
-            int g = lower_bound(prefix.begin() + 1, prefix.end(), q + 1) - prefix.begin();
-            ans.push_back(g);
-        }
+        memset(Div, 0, (M+1)*sizeof(int));
         return ans;
     }
 };
+
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
