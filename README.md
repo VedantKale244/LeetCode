@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VedantKale244/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedantKale244/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2103-rings-and-rods](https://github.com/VedantKale244/LeetCode/tree/master/2103-rings-and-rods) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantKale244/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VedantKale244/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0697-degree-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2103-rings-and-rods](https://github.com/VedantKale244/LeetCode/tree/master/2103-rings-and-rods) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VedantKale244/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VedantKale244/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
