@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/VedantKale244/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/VedantKale244/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/VedantKale244/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VedantKale244/LeetCode/tree/master/0210-course-schedule-ii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/VedantKale244/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/VedantKale244/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/VedantKale244/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VedantKale244/LeetCode/tree/master/0210-course-schedule-ii) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/VedantKale244/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/VedantKale244/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VedantKale244/LeetCode/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VedantKale244/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedantKale244/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0133-clone-graph](https://github.com/VedantKale244/LeetCode/tree/master/0133-clone-graph) |
 | [0697-degree-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2103-rings-and-rods](https://github.com/VedantKale244/LeetCode/tree/master/2103-rings-and-rods) |
