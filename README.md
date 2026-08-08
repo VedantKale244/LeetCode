@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedantKale244/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VedantKale244/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantKale244/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/VedantKale244/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VedantKale244/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/VedantKale244/LeetCode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VedantKale244/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedantKale244/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VedantKale244/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/VedantKale244/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantKale244/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VedantKale244/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedantKale244/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedantKale244/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/VedantKale244/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantKale244/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantKale244/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VedantKale244/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
