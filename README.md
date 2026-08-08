@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/VedantKale244/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0877-stone-game](https://github.com/VedantKale244/LeetCode/tree/master/0877-stone-game) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/VedantKale244/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1260-shift-2d-grid](https://github.com/VedantKale244/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/VedantKale244/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VedantKale244/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/VedantKale244/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/VedantKale244/LeetCode/tree/master/0133-clone-graph) |
 | [0697-degree-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/VedantKale244/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2103-rings-and-rods](https://github.com/VedantKale244/LeetCode/tree/master/2103-rings-and-rods) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantKale244/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/VedantKale244/LeetCode/tree/master/0127-word-ladder) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/VedantKale244/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
