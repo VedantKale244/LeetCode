@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VedantKale244/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VedantKale244/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/VedantKale244/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/VedantKale244/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/VedantKale244/LeetCode/tree/master/0732-my-calendar-iii) |
+## Tree
+|  |
+| ------- |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/VedantKale244/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 <!---LeetCode Topics End-->
