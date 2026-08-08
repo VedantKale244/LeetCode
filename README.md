@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/VedantKale244/LeetCode/tree/master/0732-my-calendar-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VedantKale244/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VedantKale244/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VedantKale244/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0732-my-calendar-iii](https://github.com/VedantKale244/LeetCode/tree/master/0732-my-calendar-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VedantKale244/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VedantKale244/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VedantKale244/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/VedantKale244/LeetCode/tree/master/0732-my-calendar-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VedantKale244/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -305,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VedantKale244/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Design
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/VedantKale244/LeetCode/tree/master/0732-my-calendar-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/VedantKale244/LeetCode/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
