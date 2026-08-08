@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/VedantKale244/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/VedantKale244/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantKale244/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3921-score-validator](https://github.com/VedantKale244/LeetCode/tree/master/3921-score-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VedantKale244/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VedantKale244/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VedantKale244/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3921-score-validator](https://github.com/VedantKale244/LeetCode/tree/master/3921-score-validator) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/VedantKale244/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VedantKale244/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantKale244/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3921-score-validator](https://github.com/VedantKale244/LeetCode/tree/master/3921-score-validator) |
 ## Combinatorics
 |  |
 | ------- |
