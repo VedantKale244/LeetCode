@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/VedantKale244/LeetCode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VedantKale244/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VedantKale244/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3379-transformed-array](https://github.com/VedantKale244/LeetCode/tree/master/3379-transformed-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VedantKale244/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VedantKale244/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VedantKale244/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/VedantKale244/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VedantKale244/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3379-transformed-array](https://github.com/VedantKale244/LeetCode/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VedantKale244/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/VedantKale244/LeetCode/tree/master/3921-score-validator) |
 ## Combinatorics
