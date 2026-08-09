@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VedantKale244/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantKale244/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/VedantKale244/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2518-number-of-great-partitions](https://github.com/VedantKale244/LeetCode/tree/master/2518-number-of-great-partitions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VedantKale244/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/VedantKale244/LeetCode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VedantKale244/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VedantKale244/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/VedantKale244/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/VedantKale244/LeetCode/tree/master/1406-stone-game-iii) |
+| [2518-number-of-great-partitions](https://github.com/VedantKale244/LeetCode/tree/master/2518-number-of-great-partitions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VedantKale244/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VedantKale244/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedantKale244/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
