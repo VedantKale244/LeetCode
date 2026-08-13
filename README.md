@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VedantKale244/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VedantKale244/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VedantKale244/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VedantKale244/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/VedantKale244/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2518-number-of-great-partitions](https://github.com/VedantKale244/LeetCode/tree/master/2518-number-of-great-partitions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VedantKale244/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/VedantKale244/LeetCode/tree/master/0127-word-ladder) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedantKale244/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2103-rings-and-rods](https://github.com/VedantKale244/LeetCode/tree/master/2103-rings-and-rods) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VedantKale244/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VedantKale244/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantKale244/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VedantKale244/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/VedantKale244/LeetCode/tree/master/0732-my-calendar-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VedantKale244/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VedantKale244/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/VedantKale244/LeetCode/tree/master/0732-my-calendar-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VedantKale244/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Tree
 |  |
 | ------- |
