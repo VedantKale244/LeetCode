@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VedantKale244/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/VedantKale244/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VedantKale244/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VedantKale244/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VedantKale244/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VedantKale244/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/VedantKale244/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VedantKale244/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/VedantKale244/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VedantKale244/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VedantKale244/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VedantKale244/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VedantKale244/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/VedantKale244/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VedantKale244/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/VedantKale244/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Nim Game
 |  |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VedantKale244/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Binary Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VedantKale244/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
