@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VedantKale244/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/VedantKale244/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/VedantKale244/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VedantKale244/LeetCode/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/VedantKale244/LeetCode/tree/master/0486-predict-the-winner) |
