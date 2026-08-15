@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VedantKale244/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/VedantKale244/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VedantKale244/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/VedantKale244/LeetCode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/VedantKale244/LeetCode/tree/master/0127-word-ladder) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedantKale244/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2103-rings-and-rods](https://github.com/VedantKale244/LeetCode/tree/master/2103-rings-and-rods) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VedantKale244/LeetCode/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedantKale244/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VedantKale244/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VedantKale244/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
