@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/VedantKale244/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/VedantKale244/LeetCode/tree/master/0011-container-with-most-water) |
 | [0200-number-of-islands](https://github.com/VedantKale244/LeetCode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/VedantKale244/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VedantKale244/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/VedantKale244/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedantKale244/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VedantKale244/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VedantKale244/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedantKale244/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/VedantKale244/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VedantKale244/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/VedantKale244/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VedantKale244/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/VedantKale244/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/VedantKale244/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedantKale244/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/VedantKale244/LeetCode/tree/master/0877-stone-game) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VedantKale244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/VedantKale244/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/VedantKale244/LeetCode/tree/master/0133-clone-graph) |
+| [0268-missing-number](https://github.com/VedantKale244/LeetCode/tree/master/0268-missing-number) |
 | [0697-degree-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VedantKale244/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VedantKale244/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/VedantKale244/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VedantKale244/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0732-my-calendar-iii](https://github.com/VedantKale244/LeetCode/tree/master/0732-my-calendar-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VedantKale244/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -250,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VedantKale244/LeetCode/tree/master/0268-missing-number) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/VedantKale244/LeetCode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VedantKale244/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VedantKale244/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
