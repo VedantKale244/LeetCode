@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VedantKale244/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VedantKale244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/VedantKale244/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/VedantKale244/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/VedantKale244/LeetCode/tree/master/0127-word-ladder) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VedantKale244/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2103-rings-and-rods](https://github.com/VedantKale244/LeetCode/tree/master/2103-rings-and-rods) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VedantKale244/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/VedantKale244/LeetCode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/VedantKale244/LeetCode/tree/master/0125-valid-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VedantKale244/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VedantKale244/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/VedantKale244/LeetCode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
