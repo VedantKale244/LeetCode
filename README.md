@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VedantKale244/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/VedantKale244/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/VedantKale244/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VedantKale244/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VedantKale244/LeetCode/tree/master/1140-stone-game-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedantKale244/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/VedantKale244/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/VedantKale244/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/VedantKale244/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VedantKale244/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VedantKale244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VedantKale244/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/VedantKale244/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/VedantKale244/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/VedantKale244/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
