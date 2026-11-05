@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/VedantKale244/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/VedantKale244/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedantKale244/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/VedantKale244/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/VedantKale244/LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/VedantKale244/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VedantKale244/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VedantKale244/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/VedantKale244/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VedantKale244/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VedantKale244/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VedantKale244/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/VedantKale244/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/VedantKale244/LeetCode/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/VedantKale244/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/VedantKale244/LeetCode/tree/master/0268-missing-number) |
 | [0697-degree-of-an-array](https://github.com/VedantKale244/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VedantKale244/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VedantKale244/LeetCode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/VedantKale244/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VedantKale244/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VedantKale244/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VedantKale244/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/VedantKale244/LeetCode/tree/master/0169-majority-element) |
 ## Manacher
 |  |
 | ------- |
@@ -476,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VedantKale244/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VedantKale244/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
