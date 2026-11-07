@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VedantKale244/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedantKale244/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/VedantKale244/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/VedantKale244/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/VedantKale244/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/VedantKale244/LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/VedantKale244/LeetCode/tree/master/0268-missing-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VedantKale244/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/VedantKale244/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/VedantKale244/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/VedantKale244/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/VedantKale244/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VedantKale244/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VedantKale244/LeetCode/tree/master/1140-stone-game-ii) |
